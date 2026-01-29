@@ -9,10 +9,10 @@
 <a href="https://your-portfolio-site.com">
   <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=google-chrome">
 </a>
-<a href="https://www.linkedin.com/in/username">
+<a href="https://www.linkedin.com/in/ahmad-fachri">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
-<a href="mailto:your@email.com">
+<a href="mailto:ahmdfhri09@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
