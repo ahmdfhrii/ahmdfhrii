@@ -55,7 +55,7 @@ My interests include building **secure, scalable, and intelligent systems**, as 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,html,css,bootstrap,tailwind,laravel,mysql,docker,linux,git,github,vscode,aws" />
+  <img src="https://skillicons.dev/icons?i=python,php,html,css,bootstrap,tailwind,laravel,mysql,docker,linux,git,github,vscode,aws,figma,nmap,n8n" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ My interests include building **secure, scalable, and intelligent systems**, as 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadfachri12&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadfachri11&show_icons=true&theme=default" />
 </p>
 
 ---
