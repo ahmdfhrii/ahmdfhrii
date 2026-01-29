@@ -55,7 +55,11 @@ My interests include building **secure, scalable, and intelligent systems**, as 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,html,css,bootstrap,tailwind,laravel,mysql,docker,linux,git,github,vscode,aws,figma,nmap,n8n" />
+  <img src="https://skillicons.dev/icons?i=python,php,html,css,bootstrap,tailwind,laravel,mysql,docker,linux,git,github,vscode,aws,ansible,terraform,grafana,prometheus" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-FF6A00?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ---
