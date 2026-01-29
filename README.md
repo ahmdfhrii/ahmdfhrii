@@ -9,7 +9,7 @@
 <a href="https://your-portfolio-site.com">
   <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=google-chrome">
 </a>
-<a href="https://www.linkedin.com/in/ahmad-fachri/6873b2293">
+<a href="www.linkedin.com/in/ahmad-fachri-6873b2293">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 <a href="mailto:ahmdfhri09@gmail.com">
