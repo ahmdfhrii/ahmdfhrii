@@ -55,7 +55,7 @@ My interests include building **secure, scalable, and intelligent systems**, as 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,html,css,bootstrap,tailwind,laravel,mysql,docker,linux,git,github,vscode,aws,ansible,terraform,grafana,prometheus" />
+  <img src="https://skillicons.dev/icons?i=python,php,html,css,bootstrap,tailwind,laravel,mysql,docker,linux,git,github,vscode,aws,ansible,terraform,grafana,prometheus,jenkins" />
 </p>
 
 <p align="center">
