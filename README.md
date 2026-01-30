@@ -2,7 +2,7 @@
 
 <p align="center">
 🚀 Informatics Engineering Student <br>
-🤖 AI Engineer | ☁️ Cloud & Infrastructure | 🔐 Cyber Security
+☁️ DevOps Engineer | 🔐 Cyber Security (Web Pentesting) | 🤖 AI Engineer
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome">
 </a>
 <a href="https://www.linkedin.com/in/ahmad-fachri-6873b2293">
-  <img src="https://img.shields.io/badge/LinkedIn-Ahmad Fachri-blue?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Fachri-blue?style=for-the-badge&logo=linkedin">
 </a>
 <a href="mailto:ahmdfhri09@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
@@ -20,42 +20,48 @@
 ---
 
 ## 👋 About Me
-I am an Informatics Engineering student with a strong technical focus on **Artificial Intelligence Engineering, Cloud Infrastructure, and Cyber Security**.  
-I work across application, infrastructure, and security layers, with an understanding of how systems behave in **real-world and production environments**.
+I am an **Informatics Engineering student** with a strong focus on **DevOps Engineering**, complemented by hands-on experience in **Cyber Security (Web Pentesting)** and **Artificial Intelligence Engineering**.
 
-My interests include building **secure, scalable, and intelligent systems**, as well as analyzing vulnerabilities and system performance.
+I specialize in building, automating, securing, and monitoring **cloud-native and production-ready systems**, with a solid understanding of how infrastructure, applications, and security interact in real-world environments.
+
+I am highly interested in **scalable systems, CI/CD automation, infrastructure as code, security testing**, and **AI-powered solutions**.
 
 ---
 
 ## 🧠 Core Expertise
 
+### ☁️ DevOps & Cloud Engineering (Primary Focus)
+- Linux system administration & server hardening
+- Containerization & orchestration using Docker
+- CI/CD pipeline design (Jenkins, GitHub Actions)
+- Infrastructure as Code (Terraform, Ansible)
+- Monitoring & observability (Grafana, Prometheus)
+- Cloud architecture fundamentals (AWS IaaS)
+- Workflow automation using **n8n**
+- Deployment, rollback, and system reliability concepts
+
+### 🔐 Cyber Security (Web Pentesting)
+- Web application vulnerability assessment
+- OWASP Top 10 (SQLi, XSS, CSRF, auth flaws)
+- Manual & tool-assisted penetration testing
+- CTF challenges (web & crypto-based)
+- Secure system & application design
+- Basic cryptography understanding (RSA, ElGamal, hashing)
+
 ### 🤖 AI Engineering
 - Machine Learning fundamentals & model evaluation
 - Data preprocessing & feature engineering
-- Understanding **LLM architecture** & **RAG (Retrieval-Augmented Generation)**
+- Understanding **LLM architecture & RAG**
 - Prompt engineering & AI system integration
 - Python-based AI pipelines & automation
-
-### ☁️ Cloud & Infrastructure
-- Linux system administration
-- Containerization with Docker
-- Cloud architecture fundamentals (IaaS)
-- CI/CD concepts (Jenkins, GitHub Actions)
-- Infrastructure monitoring & deployment workflows
-
-### 🔐 Cyber Security
-- Web application security fundamentals
-- Cryptography concepts (RSA, ElGamal, hashing)
-- Capture The Flag (CTF) challenges
-- Vulnerability assessment & threat analysis
-- Secure system design principles
+- AI-assisted DevOps & security workflows
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,html,css,bootstrap,tailwind,laravel,mysql,docker,linux,git,github,vscode,aws,ansible,terraform,grafana,prometheus,jenkins" />
+  <img src="https://skillicons.dev/icons?i=python,php,html,css,bootstrap,tailwind,laravel,mysql,docker,linux,git,github,vscode,aws,ansible,terraform,jenkins,grafana,prometheus" />
 </p>
 
 <p align="center">
@@ -65,21 +71,37 @@ My interests include building **secure, scalable, and intelligent systems**, as 
 ---
 
 ## 📂 Selected Projects
-- ☁️ Cloud-based E-Learning Platform (AWS IaaS)
-- 🔐 CTF & Cryptography Security Challenges
-- 🤖 AI & Machine Learning Experiments
-- 🌐 Web Applications using Laravel
+- ☁️ **Cloud-Based E-Learning Platform**  
+  AWS IaaS deployment with scalable architecture & secure configuration
 
+- 🔐 **Web Security & CTF Challenges**  
+  Vulnerability analysis, exploitation, and security hardening practices
 
+- 🤖 **AI & Machine Learning Experiments**  
+  Model training, evaluation, and LLM-based system exploration
+
+- 🌐 **Web Applications (Laravel)**  
+  Backend-driven systems with authentication & database integration
+
+---
+
+## 📜 Certifications & Learning
+- Cloud Computing & Infrastructure Fundamentals
+- Cyber Security & Web Application Security
+- AI & Machine Learning Foundations
+- DevOps Tools & CI/CD Practices
+
+*(Certifications continuously updated)*
 
 ---
 
 ## 🎯 Current Focus
-- Advanced AI Engineering & LLM-based systems
-- Secure cloud infrastructure deployment
-- Cyber security case studies & CTFs
-- Industry-level & internship projects
+- Advanced DevOps & Cloud Infrastructure
+- Infrastructure as Code & system automation
+- Web application penetration testing
+- AI Engineering & LLM-based systems
+- Industry-level projects & internships
 
 ---
 
-⭐ Designing secure, scalable, and intelligent systems.
+⭐ **Building secure, scalable, and intelligent systems with a DevOps mindset.**
