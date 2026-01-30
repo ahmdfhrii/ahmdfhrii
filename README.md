@@ -86,19 +86,18 @@ I am highly interested in **scalable systems, CI/CD automation, infrastructure a
 ---
 
 ## 📜 Certifications & Learning
-- Cloud Computing & Infrastructure Fundamentals
-- Cyber Security & Web Application Security
-- AI & Machine Learning Foundations
-- DevOps Tools & CI/CD Practices
-
-*(Certifications continuously updated)*
+- 🎓 <a href="https://sinufia.nfacademy.id/certificate-verification/46b7da63-49cc-4ee4-ad19-765116c7a80b">Independent Study Participant – DevOps Engineer</a>
+- 🥉 <a href="https://drive.google.com/file/d/1n2HeT5AhYXM_OwuYiXUAgzYplxNdoc19/view?usp=sharing">3rd Place – Internal Capture The Flag (CTF)</a>
+- 🏁 <a href="https://drive.google.com/file/d/1rBWwTSieVebYmsvu3yxSPwHbwFXBnQH8/view?usp=sharing">ANational-Level CTF Participant – I-FEST #13
 
 ---
 
 ## 🎯 Current Focus
-- 🎓 <a href="https://sinufia.nfacademy.id/certificate-verification/46b7da63-49cc-4ee4-ad19-765116c7a80b">Independent Study Participant – DevOps Engineer</a>
-- 🥉 <a href="https://drive.google.com/file/d/1n2HeT5AhYXM_OwuYiXUAgzYplxNdoc19/view?usp=sharing">3rd Place – Internal Capture The Flag (CTF)</a>
-- 🏁 <a href="https://drive.google.com/file/d/1rBWwTSieVebYmsvu3yxSPwHbwFXBnQH8/view?usp=sharing">ANational-Level CTF Participant – I-FEST #13
+- Advanced DevOps & Cloud Infrastructure
+- Infrastructure as Code & system automation
+- Web application penetration testing
+- AI Engineering & LLM-based systems
+- Industry-level projects & internships
 
 ---
 
