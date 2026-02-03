@@ -29,6 +29,19 @@ I enjoy working with **cloud infrastructure, CI/CD pipelines, infrastructure as 
 
 ---
 
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadfachri12&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadfachri12&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=Ahmadfachri12&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 🌎 Find me around the web
 <p>
 <a href="https://nantiya">
@@ -41,7 +54,3 @@ I enjoy working with **cloud infrastructure, CI/CD pipelines, infrastructure as 
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
-
----
-
-⭐ **Passionate about building secure, scalable, and intelligent systems through DevOps practices.**
