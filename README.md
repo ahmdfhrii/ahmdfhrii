@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Ahmad Fachri 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7DE00&width=435&lines=Hi%2C+i'm+fahri!;DevOps+Engineer;Tech+Explorer;AI+%2F+Cyber+Security++Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DE00&width=435&lines=Hi%2C+i'm+fahri!;DevOps+Engineer;Tech+Explorer;AI+%2F+Cyber+Security++Enthusiast)](https://git.io/typing-svg)
 
 ---
 
