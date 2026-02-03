@@ -1,10 +1,15 @@
 <h1 align="center">Hi there, I'm Ahmad Fachri 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DE00&width=435&lines=Hi%2C+i'm+fahri!;DevOps+Engineer;Tech+Explorer;AI+%2F+Cyber+Security++Enthusiast)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DE00&width=435&lines=Hi%2C+i'm+fahri!;DevOps+Engineer;Tech+Explorer;AI+%2F+Cyber+Security++Enthusiast" />
+  </a>
+</p>
+
 
 <p align="center">
 🚀 Informatics Engineering Student <br>
-☁️ DevOps Engineer | 🔐 Cyber Security (Web Pentesting) | 🤖 AI Engineer
+☁️ DevOps Engineer | 🔐 Cyber Security (Web Pentesting) | 🤖 AI Enthusiast
 </p>
 
 <p align="center">
@@ -22,11 +27,11 @@
 ---
 
 ## 👋 About Me
-I am an **Informatics Engineering student** with a strong focus on **DevOps Engineering**, complemented by hands-on experience in **Cyber Security (Web Pentesting)** and **Artificial Intelligence Engineering**.
+I am an **Informatics Engineering student** with a primary focus on **DevOps Engineering**, experienced in designing, automating, and maintaining **reliable, scalable, and secure systems**.
 
-I specialize in building, automating, securing, and monitoring **cloud-native and production-ready systems**, with a solid understanding of how infrastructure, applications, and security interact in real-world environments.
+Alongside DevOps, I actively explore **Cyber Security (Web Application Pentesting)** and **Artificial Intelligence**, particularly how **security and AI can be integrated into modern DevOps workflows**.
 
-I am highly interested in **scalable systems, CI/CD automation, infrastructure as code, security testing**, and **AI-powered solutions**.
+I enjoy working with **cloud infrastructure, CI/CD pipelines, infrastructure as code**, and **system observability**, while continuously improving my skills through hands-on projects, competitions, and real-world simulations.
 
 ---
 
@@ -42,20 +47,21 @@ I am highly interested in **scalable systems, CI/CD automation, infrastructure a
 
 ---
 
-## 📜 Certifications & Learning
-- 🎓 <a href="https://sinufia.nfacademy.id/certificate-verification/46b7da63-49cc-4ee4-ad19-765116c7a80b">Independent Study Participant – DevOps Engineer</a>
+## 📜 Certifications & Achievements
+- 🎓 <a href="https://sinufia.nfacademy.id/certificate-verification/46b7da63-49cc-4ee4-ad19-765116c7a80b">Independent Study Program – DevOps Engineer (NF Academy)</a>
 - 🥉 <a href="https://drive.google.com/file/d/1n2HeT5AhYXM_OwuYiXUAgzYplxNdoc19/view?usp=sharing">3rd Place – Internal Capture The Flag (CTF)</a>
 - 🏁 <a href="https://drive.google.com/file/d/1rBWwTSieVebYmsvu3yxSPwHbwFXBnQH8/view?usp=sharing">National-Level CTF Participant – I-FEST #13</a>
 
 ---
 
 ## 🎯 Current Focus
-- Advanced DevOps & Cloud Infrastructure
-- Infrastructure as Code & system automation
+- Cloud & DevOps best practices
+- CI/CD automation & Infrastructure as Code
+- Monitoring, logging, and system reliability
 - Web application penetration testing
-- AI Engineering & LLM-based systems
-- Industry-level projects & internships
+- AI & LLM-based experimentation
+- Industry-oriented projects & internships
 
 ---
 
-⭐ **Building secure, scalable, and intelligent systems with a DevOps mindset.**
+⭐ **Passionate about building secure, scalable, and intelligent systems through DevOps practices.**
