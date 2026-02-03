@@ -1,15 +1,10 @@
 <h1>Hi there, I'm Ahmad Fachri 👋</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DE00&width=435&lines=Hi%2C+i'm+fahri!;DevOps+Engineer;Tech+Explorer;AI+%2F+Cyber+Security++Enthusiast" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DE00&width=435&lines=Hi%2C+i'm+fahri!;DevOps+Engineer;Tech+Explorer;AI+%2F+Cyber+Security++Enthusiast)](https://git.io/typing-svg)
 
-
-<p>
+<h2>
 🚀 Informatics Engineering Student <br>
-</p>
+</h2>
 
 <p>
 <a href="https://nantiya">
