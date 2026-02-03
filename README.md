@@ -41,6 +41,7 @@ I enjoy working with **cloud infrastructure, CI/CD pipelines, infrastructure as 
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
+
 ---
 
 ⭐ **Passionate about building secure, scalable, and intelligent systems through DevOps practices.**
