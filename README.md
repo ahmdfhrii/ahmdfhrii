@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ahmad Fachri 👋</h1>
+<h1>Hi there, I'm Ahmad Fachri 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -7,12 +7,11 @@
 </p>
 
 
-<p align="center">
+<p>
 🚀 Informatics Engineering Student <br>
-☁️ DevOps Engineer | 🔐 Cyber Security (Web Pentesting) | 🤖 AI Enthusiast
 </p>
 
-<p align="center">
+<p>
 <a href="https://nantiya">
   <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome">
 </a>
