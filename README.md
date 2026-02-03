@@ -30,36 +30,6 @@ I am highly interested in **scalable systems, CI/CD automation, infrastructure a
 
 ---
 
-## 🧠 Core Expertise
-
-### ☁️ DevOps & Cloud Engineering
-- Linux system administration & server hardening
-- Containerization & orchestration using Docker
-- CI/CD pipeline design (Jenkins, GitHub Actions)
-- Infrastructure as Code (Terraform, Ansible)
-- Monitoring & observability (Grafana, Prometheus)
-- Cloud architecture fundamentals (AWS IaaS)
-- Workflow automation using **n8n**
-- Deployment, rollback, and system reliability concepts
-
-### 🔐 Cyber Security (Web Pentesting)
-- Web application vulnerability assessment
-- OWASP Top 10 (SQLi, XSS, CSRF, auth flaws)
-- Manual & tool-assisted penetration testing
-- CTF challenges
-- Secure system & application design
-- Basic cryptography understanding (RSA, ElGamal, hashing)
-
-### 🤖 AI Engineering
-- Machine Learning fundamentals & model evaluation
-- Data preprocessing & feature engineering
-- Understanding **LLM architecture & RAG**
-- Prompt engineering & AI system integration
-- Python-based AI pipelines & automation
-- AI-assisted DevOps & security workflows
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
