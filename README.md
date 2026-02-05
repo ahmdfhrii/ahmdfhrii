@@ -22,7 +22,7 @@ I enjoy working with **cloud infrastructure, CI/CD pipelines, infrastructure as 
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,html,css,bootstrap,tailwind,laravel,mysql,docker,linux,git,github,vscode,aws,ansible,terraform,jenkins" />
+  <img src="https://skillicons.dev/icons?i=python,php,html,css,bootstrap,tailwind,laravel,mysql,docker,linux,gitlab,github,vscode,aws,ansible,terraform,jenkins" />
 </p>
 
 <p>
